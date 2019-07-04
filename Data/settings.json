@@ -3,5 +3,6 @@
   "browser": "chrome",
   "chrome_driver": "C:\\Users\\alok.chauhan\\PycharmProjects\\Selenium-BDD\\drivers\\chromedriver.exe",
   "firefox_driver": "C:\\Users\\alok.chauhan\\PycharmProjects\\Selenium-BDD\\drivers\\geckodriver.exe",
-  "wait_time" : 10
+  "wait_time" : 10,
+  "timeout_time": 20
 }
